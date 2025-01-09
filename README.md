@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Spring
 - my Email : ko9603@gmail.com
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ko9603)](https://solved.ac/ko9603/)
